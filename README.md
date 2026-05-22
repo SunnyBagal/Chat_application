@@ -2,7 +2,7 @@
 
 A minimal real-time chat application built to learn WebSockets. Create a room, share the code, and chat with up to 10 people — no account required.
 
-**Live:** https://real-time-chat-liard.vercel.app/
+**Live:** [https://real-time-chat-liard.vercel.app/](https://chat-application-two-flax.vercel.app/)
 
 ---
 
